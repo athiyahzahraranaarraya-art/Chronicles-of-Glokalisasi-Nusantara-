@@ -1,0 +1,6 @@
+{
+  "name": "Honkai: Glokalisasi Odyssey",
+  "description": "Interactive HSR-inspired anime visual novel and monster-battle educational game exploring the critical theories of Glokalisasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
